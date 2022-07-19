@@ -21,7 +21,7 @@
     },
     "BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": ""
+      "value": "1943275919:AAFwSScrlR_i-AzdNTOiw8EEctbU_exOaGg"
     },
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
@@ -37,23 +37,23 @@
     },
     "LOG_CHANNEL": {
       "description": "Your Any Own Private Channel ID Where Your Bot As Admin With Full Permission",
-      "value": ""
+      "value": "-1001482606933"
     },
     "UPDATES_CHANNEL": {
       "description": "For Force Subscribe. Paste your Update channel ID",
-      "value": ""
+      "value": "-1001482606933"
     },
     "OWNER_ID": {
       "description": "Your Telegram ID For Broadcast",
-      "value": "12345678"
+      "value": "763990585"
     },
     "BROADCAST_AS_COPY": {
       "description": "Value Will Be True or False",
-      "value": ""
+      "value": "hi"
     },
     "BOT_USERNAME": {
       "description": "Your Bot Username Without @",
-      "value": ""
+      "value": "ir_uploadbot"
     }
   },
   "addons": [
